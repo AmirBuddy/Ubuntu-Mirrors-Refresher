@@ -1,0 +1,11 @@
+2024-10-28 00:41:33,616 - INFO - Top 10 Up-to-Date Ubuntu Mirrors (HTTP):
+2024-10-28 00:41:33,616 - INFO - URL: http://ubuntu.pishgaman.net/ubuntu/, Status: 200, Ping: 0.11s
+2024-10-28 00:41:33,616 - INFO - URL: http://mirrors.asnet.am/ubuntu/, Status: 200, Ping: 0.13s
+2024-10-28 00:41:33,616 - INFO - URL: http://ubuntu.shatel.ir/ubuntu/, Status: 200, Ping: 0.14s
+2024-10-28 00:41:33,616 - INFO - URL: http://mirror.sh.com.tr/ubuntu/, Status: 200, Ping: 0.16s
+2024-10-28 00:41:33,616 - INFO - URL: http://mirror.aminidc.com/ubuntu/, Status: 200, Ping: 0.18s
+2024-10-28 00:41:33,616 - INFO - URL: http://mirror.alastyr.com/ubuntu/ubuntu-archive/, Status: 200, Ping: 0.18s
+2024-10-28 00:41:33,616 - INFO - URL: http://mirror.datacenter.by/ubuntu/, Status: 200, Ping: 0.18s
+2024-10-28 00:41:33,616 - INFO - URL: http://archive.ubuntu.petiak.ir/ubuntu/, Status: 200, Ping: 0.19s
+2024-10-28 00:41:33,616 - INFO - URL: http://ubuntu.web.trex.fi/ubuntu/, Status: 200, Ping: 0.21s
+2024-10-28 00:41:33,616 - INFO - URL: http://repo.iut.ac.ir/repo/Ubuntu/, Status: 200, Ping: 0.22s
