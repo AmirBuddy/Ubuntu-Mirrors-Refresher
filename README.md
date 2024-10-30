@@ -1,7 +1,5 @@
 # Ubuntu Mirrors Refresher
 
-## Overview
-
 The **Ubuntu Mirrors Refresher** is a Python script that retrieves and checks the status of up-to-date Ubuntu mirror servers. It fetches mirror URLs from the Ubuntu Launchpad, tests their availability, and measures ping times, helping users find the best mirrors based on performance.
 
 ## Features
